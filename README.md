@@ -18,6 +18,19 @@
 
 ---
 
+## 📊 Model Performance
+
+### 🔀 Confusion Matrix  
+<p align="center">  
+  <img src="static/confusion_matrix.png" width="500" alt="Confusion Matrix">  
+</p>
+
+### 📈 Accuracy Over Epochs  
+<p align="center">  
+  <img src="static/accuracy_plot.png" width="500" alt="Accuracy Plot">  
+</p>
+
+---
 ## 📁 Project Structure
 The project directory contains the following files and folders:
 
