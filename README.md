@@ -90,4 +90,12 @@ arabic-handwritten-recognition/
 ## 🤝 Contributing
 
 مرحب بأي مساهمات! افتح [Issue]( https://github.com/ahmedmazoon/arabic-handwritten-recognition1/issues) أو ابعت Pull Request لو عندك فكرة تحسين أو تعديل.
+---
+---
+
+## 👥 Team Members
+
+- Ahmed Khaled  
+- Mariam Sayed  
+- Haidy Abobaker
 
