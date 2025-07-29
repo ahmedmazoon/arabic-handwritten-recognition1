@@ -41,7 +41,7 @@ arabic-handwritten-recognition/
 1. **Clone the repository**
    ```bash
    git clone https://github.com/yourusername/arabic-handwritten-recognition1.git
-   cd arabic-handwritten-recognition
+   cd arabic-handwritten-recognition1
    ```
 
 2. **Create a virtual environment (اختياري لكن يُفضّل)**
