@@ -22,7 +22,7 @@
 The project directory contains the following files and folders:
 
 ```
-arabic-handwritten-recognition/
+arabic-handwritten-recognition1/
 │
 ├── model.h5                 # Trained CNN model for Arabic character recognition
 ├── app.py                  # Flask web app for deployment
@@ -46,7 +46,7 @@ arabic-handwritten-recognition/
    cd arabic-handwritten-recognition1
    ```
 
-2. **Create a virtual environment **
+2. **Create a virtual environment**
    ```bash
    python -m venv venv
    source venv/bin/activate     # على لينكس/ماك
