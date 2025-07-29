@@ -1,0 +1,55 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background: linear-gradient(to right, #e0f7fa, #e1bee7); /* خلفية متدرجة */
+    direction: rtl;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.container {
+    padding: 40px;
+    width: 90%;
+    max-width: 600px;
+    background-color: #ffffffee; /* أبيض شفاف قليلاً */
+    border-radius: 12px;
+    box-shadow: 0 6px 12px rgba(0,0,0,0.15);
+}
+
+h1 {
+    color: #2c3e50;
+    margin-bottom: 30px;
+}
+
+form input[type="file"] {
+    margin-bottom: 20px;
+}
+
+button {
+    background-color: #8e44ad;
+    color: white;
+    padding: 10px 25px;
+    font-size: 16px;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+button:hover {
+    background-color: #6c3483;
+}
+
+.result {
+    margin-top: 30px;
+}
+
+.result span {
+    color: #27ae60;
+    font-size: 24px;
+    font-weight: bold;
+}
