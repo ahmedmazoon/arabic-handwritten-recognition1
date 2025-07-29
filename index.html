@@ -1,24 +1,0 @@
-<!DOCTYPE html>
-<html lang="ar">
-<head>
-    <meta charset="UTF-8">
-    <title>تعرّف على الحرف العربي</title>
-    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
-</head>
-<body>
-    <div class="container">
-        <h1>🔤 تعرّف على الحرف العربي المكتوب بخط اليد</h1>
-        <form method="POST" enctype="multipart/form-data">
-            <input type="file" name="file" accept="image/*" required>
-            <button type="submit">✨ ارفع الصورة</button>
-        </form>
-
-        {% if prediction %}
-            <div class="result">
-                <h2>✅ الحرف المتوقع: <span>{{ prediction }}</span></h2>
-                <img src="{{ url_for('static', filename='uploads/' + image) }}" width="200">
-            </div>
-        {% endif %}
-    </div>
-</body>
-</html>
