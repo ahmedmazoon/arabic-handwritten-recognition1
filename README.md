@@ -97,7 +97,6 @@ arabic-handwritten-recognition/
 
 ## 👥 Team Members
 
-- Ahmed Khaled  
-- Mariam Sayed  
-- Haidy Abobaker
-
+- [Ahmed Khaled mayzoon](https://github.com/ahmedmazoon)  
+- [Mariam mohamed sayed](https://github.com/mariam-sayed8)  
+- [Haidy Abobaker mohamed](https://github.com/)
