@@ -40,7 +40,7 @@ arabic-handwritten-recognition/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/arabic-handwritten-recognition.git
+   git clone https://github.com/yourusername/arabic-handwritten-recognition1.git
    cd arabic-handwritten-recognition
    ```
 
