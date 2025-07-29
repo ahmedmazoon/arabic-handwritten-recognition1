@@ -110,8 +110,6 @@ arabic-handwritten-recognition1/
 
 ## 👥 Team Members
 
-## 👥 Team Members
-
 - [Ahmed Khaled mayzoon](https://github.com/ahmedmazoon)  
 - [Mariam mohamed sayed](https://github.com/mariam-sayed8)  
 - [Haidy Abobaker mohamed](https://github.com/HaidyAbobakr12)
