@@ -46,7 +46,7 @@ arabic-handwritten-recognition/
    cd arabic-handwritten-recognition1
    ```
 
-2. **Create a virtual environment (اختياري لكن يُفضّل)**
+2. **Create a virtual environment **
    ```bash
    python -m venv venv
    source venv/bin/activate     # على لينكس/ماك
