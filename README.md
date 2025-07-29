@@ -13,6 +13,8 @@
 - **Classes:** 28 حرف عربي
 - **Normalization:** Pixel values scaled to [0, 1] by dividing by 255
 - **Final Layer:** Softmax for class prediction
+- **Training Accuracy: 97%
+- **Testing Accuracy: 94%
 
 ---
 
