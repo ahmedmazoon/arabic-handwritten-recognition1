@@ -1,6 +1,6 @@
 body {
     font-family: 'Arial', sans-serif;
-    background: linear-gradient(to right, #e0f7fa, #e1bee7); /* خلفية متدرجة */
+    background: linear-gradient(to right, #e0f7fa, #e1bee7); 
     direction: rtl;
     text-align: center;
     margin: 0;
@@ -15,7 +15,7 @@ body {
     padding: 40px;
     width: 90%;
     max-width: 600px;
-    background-color: #ffffffee; /* أبيض شفاف قليلاً */
+    background-color: #ffffffee; 
     border-radius: 12px;
     box-shadow: 0 6px 12px rgba(0,0,0,0.15);
 }
