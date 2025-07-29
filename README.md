@@ -65,12 +65,13 @@ arabic-handwritten-recognition/
    وارفع صورة لحرف مكتوب بخط اليد وشاهد التنبؤ!
 
 ---
-
 ## 🖼️ Sample Prediction Interface
 
 واجهة التطبيق:
 
-<img src="static/sample.png" width="600" alt="واجهة التطبيق">
+<p align="center">
+  <img src="static/sample.png" width="500" alt="واجهة التطبيق">
+</p>
 
 
 
@@ -85,13 +86,6 @@ arabic-handwritten-recognition/
 
 ---
 
-## 🧪 Future Improvements
-
-- تحسين واجهة المستخدم باستخدام Bootstrap أو React.
-- دعم الكتابة الحية بالقلم (real-time drawing).
-- رفع المشروع على منصة مثل [Render](https://render.com) أو [HuggingFace Spaces](https://huggingface.co/spaces).
-
----
 
 ## 🤝 Contributing
 
