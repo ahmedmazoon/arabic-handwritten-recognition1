@@ -89,10 +89,5 @@ arabic-handwritten-recognition/
 
 ## 🤝 Contributing
 
-مرحب بأي مساهمات! افتح [Issue](https://github.com/yourusername/arabic-handwritten-recognition/issues) أو ابعت Pull Request لو عندك فكرة تحسين أو تعديل.
+مرحب بأي مساهمات! افتح [Issue](https://github.com/ahmedmazon/arabic-handwritten-recognition1/issues) أو ابعت Pull Request لو عندك فكرة تحسين أو تعديل.
 
----
-
-## 📜 License
-
-MIT License. Feel free to use and modify with credit.
